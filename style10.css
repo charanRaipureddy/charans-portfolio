@@ -290,3 +290,9 @@ nav a{
         gap: 40px;
     }
 }
+.anchortag{
+    text-decoration: none;
+    color: #a0a0a0;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
